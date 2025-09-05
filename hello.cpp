@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Hi I'm Rishitha Computer Science masters student at University at Albany-SUNY. This is my first assignment of ICSI-518 Software Engineering." << std::endl;
+    return 0;
+}
