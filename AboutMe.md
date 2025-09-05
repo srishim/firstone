@@ -1,1 +1,2 @@
-# Hi I'm Rishitha Computer Science masters student at University at Albany-SUNY. This is my first assignment of ICSI-518 Software Engineering.
+### Hi I'm Rishitha Computer Science masters student at University at Albany-SUNY. This is my first assignment of ICSI-518 Software Engineering.
+### I excited to explore and learn new things. 
